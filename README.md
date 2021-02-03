@@ -2,8 +2,6 @@
 
 ### [Live Site](https://airbnb-clone-5f238.web.app/)
 
-![Chat Application](https://i.ibb.co/j3dCRwy/Airbnb.jpg)
-
 ## Introduction
 This is a code repository for the corresponding project airbnb clone. 
 
